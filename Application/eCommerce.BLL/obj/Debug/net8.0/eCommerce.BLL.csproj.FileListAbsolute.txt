@@ -1,0 +1,16 @@
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\bin\Debug\net8.0\eCommerce.BLL.deps.json
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\bin\Debug\net8.0\eCommerce.BLL.dll
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\bin\Debug\net8.0\eCommerce.BLL.pdb
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\bin\Debug\net8.0\eCommerce.DAL.dll
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\bin\Debug\net8.0\eCommerce.DAL.pdb
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.csproj.AssemblyReference.cache
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.AssemblyInfoInputs.cache
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.AssemblyInfo.cs
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.csproj.CoreCompileInputs.cache
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerc.A7D00BE8.Up2Date
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.dll
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\refint\eCommerce.BLL.dll
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.pdb
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\ref\eCommerce.BLL.dll
+D:\web\Backend\MVC\E-commerce\Application\eCommerce.BLL\obj\Debug\net8.0\eCommerce.BLL.sourcelink.json
